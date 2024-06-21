@@ -61,7 +61,7 @@ Harness the power of agents and tools to create a meeting plan for personal assi
 ## 🌐 Connect with Me
 
 - Website: [victorkituku.dev](https://www.victorkituku.dev)
-- LinkedIn: [Victor Kituku](https://www.linkedin.com/in/victor-mwangangi-31347553/)
+- LinkedIn: [Victor Kituku](https://www.linkedin.com/in/victor-kituku/)
 - Twitter: [@vik_theAfrican](https://x.com/vik_theAfrican)
 - Email: [victorkituku@gmail.com](mailto:youremail@example.com)
 
