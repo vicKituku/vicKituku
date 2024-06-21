@@ -23,14 +23,9 @@ Welcome to my GitHub profile! I am a passionate data scientist focusing strongly
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
 
-
-
-
-
-
-
-
 <br />
+
+---
 
 ## 🧠 About Me
 
