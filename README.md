@@ -42,48 +42,37 @@ I am currently working on cutting-edge AI projects involving natural language pr
 
 ---
 
-## 💼 Experience
-
-- **Data Scientist at [Your Company]**
-  - Worked on developing and optimizing machine learning models for predictive analytics.
-  - Led projects on NLP, improving text classification and sentiment analysis models.
-
-- **AI Researcher at [Previous Company/Institution]**
-  - Conducted research on large language models and their applications in various fields.
-  - Published papers and presented findings at international conferences.
-
----
-
 ## 📈 Projects
 
 Here are some of my recent projects:
 
-### [Project Name 1]
-A brief description of the project and its significance.
-- **Technologies**: Python, TensorFlow, PyTorch
-- **GitHub Repository**: [Link to repository](https://github.com/yourusername/projectname1)
+### ChatPDF
+Web application that allows you to chat with PDF files
+- **Technologies**: Python, langchain, openai, react, fastapi
+- **GitHub Repository**: [Link to repository](https://github.com/vicKituku/chatpdf-fastapi-react-tailwind)
 
-### [Project Name 2]
-A brief description of the project and its significance.
-- **Technologies**: Python, scikit-learn, NLTK
-- **GitHub Repository**: [Link to repository](https://github.com/yourusername/projectname2)
+### Crew AI automated meeting preparation
+Harness the power of agents and tools to create a meeting plan for personal assistants.
+- **Technologies**: Python, crew AI agents, llms
+- **GitHub Repository**: [Link to repository](https://github.com/vicKituku/crewai-demo)
 
 ---
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- Website: [victorkituku.dev](https://www.victorkituku.dev)
+- LinkedIn: [Victor Kituku](https://www.linkedin.com/in/victor-mwangangi-31347553/)
+- Twitter: [@vik_theAfrican](https://x.com/vik_theAfrican)
+- Email: [victorkituku@gmail.com](mailto:youremail@example.com)
 
 ---
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python, Javascript
 - **Libraries & Frameworks**: TensorFlow, PyTorch, scikit-learn, NLTK, SpaCy
 - **Tools**: Jupyter Notebook, Git, Docker
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Dash
 
 ---
 
@@ -95,7 +84,7 @@ A brief description of the project and its significance.
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
+Thank you for visiting my profile! Feel free to reach out if you have any questions or want to collaborate on a project.
 
 ---
 
